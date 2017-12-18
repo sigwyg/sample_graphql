@@ -1,4 +1,11 @@
 {
+  "name": "GraphQL test",
+  "version": "1.0.0",
+  "description": "GraphQLを動かしてみる",
+  "main": "index.js",
+  "author": "Yasuo Fukuda",
+  "license": "MIT",
+  "private": true,
   "dependencies": {
     "express": "^4.16.2",
     "express-graphql": "^0.6.11",
